@@ -1,0 +1,47 @@
+
+  
+  .home h1 {
+    color: #2a2a72;
+    font-size: 2em;
+  }
+  
+  .home p {
+    margin-top: 10px;
+    font-size: 1.2em;
+    color: #555;
+  }
+  
+  .task-overview {
+    margin-top: 30px;
+  }
+
+  .task-summary h3, .quick-links h3 {
+    color: #2a2a72;
+  }
+  
+  .task-summary ul {
+    list-style-type: none;
+    padding: 0;
+    margin-top:70px;
+  }
+  
+  .task-summary li {
+    margin: 5px 0;
+    font-size: 1.1em;
+  }
+  
+  .quick-links .btn {
+    display: block;
+    background-color: #2a2a72;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 10px 0;
+    border-radius: 5px;
+    width: 400px;
+  }
+  
+  .quick-links .btn:hover {
+    background-color: #4a4ad3;
+  }
+  

@@ -1,0 +1,54 @@
+
+  
+  .dashboard h2 {
+    color: #2a2a72;
+  }
+  
+  .task-summary {
+    display: flex;
+    margin: 20px 0;
+  }
+  
+  .summary-item {
+    background-color: #f4f6f8;
+    padding: 15px;
+    border-radius: 8px;
+    
+  }
+  
+  .summary-item h3 {
+    color: #2a2a72;
+  }
+  
+  .task-preview, .quick-actions {
+    background-color: #f4f6f8;
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 20px;
+  }
+  
+  .task-preview ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .task-preview li {
+    padding: 10px 0;
+  }
+  
+  .quick-actions .btn,
+  .task-preview .btn {
+    margin: 10px 20px;
+    padding: 10px 20px;
+    background-color: #2a2a72;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .quick-actions .btn:hover,
+  .task-preview .btn:hover {
+    background-color: #4a4ad3;
+  }
+  
